@@ -1,0 +1,13 @@
+python3 main.py --data_path ./data03 -s 11
+python3 main.py --data_path ./data03 -s 7
+python3 main.py --data_path ./data03 -s 5734
+python3 main.py --data_path ./data03 -s 816
+python3 main.py --data_path ./data03 -s 1335
+python3 main.py --data_path ./data03 -s 678
+python3 main.py --data_path ./data03 -s 5957
+python3 main.py --data_path ./data03 -s 422
+python3 main.py --data_path ./data03 -s 8788
+python3 main.py --data_path ./data03 -s 1984
+python3 main.py --data_path ./data03 -s 619
+python3 main.py --data_path ./data03 -s 5
+python3 main.py --data_path ./data03 -s 198918
