@@ -1,5 +1,5 @@
 # Predictive Modeling of Type 2 Diabetes for South Korean with Genome-wide Polygenic Risk Scores (gPRS) and Serum Metabolites
-* This is the source code of the paper: [**Prediction of Type 2 Diabetes using Genome-wide Polygenic Risk Score and Metabolic Profiles: A Machine Learning Analysis of Population-based 10-year Prospective Cohort Study**](https://#) published in #### (2022).
+* This is the source code of the paper: [**Prediction of Type 2 Diabetes using Genome-wide Polygenic Risk Score and Metabolic Profiles: A Machine Learning Analysis of Population-based 10-year Prospective Cohort Study**](https://https://www.sciencedirect.com/science/article/pii/S2352396422005655) published in ***eBioMedicine Part of THE LANCET Discovery Science*** (Volume 86, 2022; [DOI](https://doi.org/10.1016/j.ebiom.2022.104383)).
 
 
 ## Abstract
